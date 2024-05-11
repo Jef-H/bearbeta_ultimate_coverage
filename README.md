@@ -18,16 +18,27 @@ def demo_the_goodies():
 
 Output for the pretty print
 [Combo: ('A', 1, 'X'), 167]
+
 [Combo: ('A', 1, 'Y'), 167]
+
 [Combo: ('A', 2, 'X'), 167]
+
 [Combo: ('A', 2, 'Y'), 167]
+
 [Combo: ('B', 1, 'X'), 167]
+
 [Combo: ('B', 1, 'Y'), 167]
+
 [Combo: ('B', 2, 'X'), 167]
+
 [Combo: ('B', 2, 'Y'), 167]
+
 [Combo: ('C', 1, 'X'), 167]
+
 [Combo: ('C', 1, 'Y'), 167]
+
 [Combo: ('C', 2, 'X'), 167]
+
 [Combo: ('C', 2, 'Y'), 167]
 
     
