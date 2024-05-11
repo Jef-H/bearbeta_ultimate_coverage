@@ -8,7 +8,7 @@ Given a data structure with the valid parameter levels, generate a unit test gri
 Double check this grid behaves as expected!! then in future UTs if anything changes you will have full coverage. 
 
 #example usage: 
-# this would deal with 3 parameters, and pass them in order to the fuction named "example_function"
+this would deal with 3 parameters, and pass them in order to the fuction named "example_function"
 
 def demo_the_goodies():
     params_levels = [['A', 'B', 'C'], [1, 2], ['X', 'Y']]
