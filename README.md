@@ -7,10 +7,13 @@ Double check this grid behaves as expected!! then in future UTs if anything chan
 #example usage: 
 this would deal with 3 parameters, and pass them in order to the fuction named "example_function"
 
+'''
 def demo_the_goodies():
     params_levels = [['A', 'B', 'C'], [1, 2], ['X', 'Y']]
     combinations, results = generate_combination_and_results(params_levels, example_function)
     print_combo_and_result(combinations, results)
+
+'''
 
 
 Output for the pretty print
